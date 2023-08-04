@@ -36,4 +36,5 @@
     <string name="terrain_type">Terain</string>
     <string name="hybrid_type">Hibrida</string>
     <string name="maps">Peta</string>
+    <string name="title_maps">Peta</string>
 </resources>
