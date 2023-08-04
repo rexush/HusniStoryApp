@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name" translatable="false">Husni Story App</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="quotes">Be Yourself and Never Surrender</string>
+    <string name="image_register">Image Register</string>
+    <string name="email_valid">Enter a valid email address!</string>
+    <string name="password_length">Password must be 8 characters</string>
+    <string name="title_register">Register Your Account On Down Below</string>
+    <string name="title_welcome">Welcome To Husni Story App</string>
+    <string name="message_welcome">Share your joys and sorrows of learning here!</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="image_login">Image Login</string>
+    <string name="message_login">It\'s Time To Share Your Story</string>
+    <string name="title_login">Login With Your Account</string>
+    <string name="required_field_name">Field name must be filled</string>
+    <string name="required_field_email">Field email must be filled</string>
+    <string name="required_field_password">Field password must be filled</string>
+    <string name="add_image">Add Image Photo</string>
+    <string name="title_detail">Detail Story</string>
+    <string name="input_image">Upload the image file first</string>
+    <string name="desc">Description</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload Picture</string>
+    <string name="image_detail">Detail Image</string>
+    <string name="add_story">Add Story</string>
+    <string name="language">Change Language</string>
+    <string name="logout">Logout</string>
+    <string name="retry">Retry Again</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="maps">Maps</string>
+</resources>

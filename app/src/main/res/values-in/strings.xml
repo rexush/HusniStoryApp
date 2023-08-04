@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="login">Masuk</string>
+    <string name="register">Daftar</string>
+    <string name="name">Nama</string>
+    <string name="quotes">Jadilah Dirimu Sendiri dan Jangan Pernah Menyerah </string>
+    <string name="image_register">Gambar Registrasi</string>
+    <string name="email_valid">Masukkan alamat email yang valid!</string>
+    <string name="password_length">Kata sandi harus berisi dari 8 karakter</string>
+    <string name="title_register">Daftarkan Akun Anda Dibawah Ini</string>
+    <string name="title_welcome">Selamat Datang Di Husni Story App</string>
+    <string name="message_welcome">Bagikan Cerita Suka dan Duka Belajar Anda Disini!</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="image_login">Gambar Login</string>
+    <string name="message_login">Sudah Waktunya Untuk Membagikan Kisahmu</string>
+    <string name="title_login">Masuk Dengan Akun Anda</string>
+    <string name="required_field_name">Kolom nama harus di isi</string>
+    <string name="required_field_email">Kolom email harus di isi</string>
+    <string name="required_field_password">Kolom password harus di isi</string>
+    <string name="add_image">Tambahkan Gambar</string>
+    <string name="title_detail">Detail Cerita</string>
+    <string name="input_image">Unggah file gambar terlebih dahulu</string>
+    <string name="desc">Deskripsi</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah Gambar</string>
+    <string name="image_detail">Detail Image</string>
+    <string name="add_story">Tambahkan Cerita</string>
+    <string name="language">Ganti Bahasa</string>
+    <string name="logout">Keluar</string>
+    <string name="retry">Coba Lagi</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satelit</string>
+    <string name="terrain_type">Terain</string>
+    <string name="hybrid_type">Hibrida</string>
+    <string name="maps">Peta</string>
+</resources>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!--    <com.capstone.sofitapp.ui.customview.PasswordEdit-->
+    <!--        android:id="@+id/edit_password"-->
+    <!--        style="@style/Widget.Material3.TextInputLayout.OutlinedBox"-->
+    <!--        android:layout_width="350dp"-->
+    <!--        android:layout_height="50dp"-->
+    <!--        android:layout_marginTop="3dp"-->
+    <!--        android:alpha="0"-->
+    <!--        android:background="@drawable/bg_custom"-->
+    <!--        android:drawableStart="@drawable/ic_password"-->
+    <!--        android:drawablePadding="12dp"-->
+    <!--        android:fontFamily="@font/poppins_regular"-->
+    <!--        android:hint="@string/password_hint"-->
+    <!--        android:importantForAutofill="no"-->
+    <!--        android:maxLength="26"-->
+    <!--        android:minHeight="48dp"-->
+    <!--        android:paddingStart="8dp"-->
+    <!--        android:paddingEnd="8dp"-->
+    <!--        android:textColor="@color/black"-->
+    <!--        android:textColorHint="@color/grey"-->
+    <!--        android:textSize="16sp"-->
+    <!--        app:layout_constraintEnd_toEndOf="parent"-->
+    <!--        app:layout_constraintStart_toStartOf="parent"-->
+    <!--        app:layout_constraintTop_toBottomOf="@+id/tv_password" />-->
+
+<!--    <EditText-->
+<!--        android:id="@+id/edit_konfirmasi_password"-->
+<!--        style="@style/Widget.Material3.TextInputLayout.OutlinedBox"-->
+<!--        android:layout_width="350dp"-->
+<!--        android:layout_height="50dp"-->
+<!--        android:layout_marginTop="3dp"-->
+<!--        android:alpha="0"-->
+<!--        android:background="@drawable/bg_custom"-->
+<!--        android:drawableStart="@drawable/ic_password"-->
+<!--        android:drawablePadding="12dp"-->
+<!--        android:ems="10"-->
+<!--        android:fontFamily="@font/poppins_regular"-->
+<!--        android:hint="@string/password_konfirmasi_hint"-->
+<!--        android:importantForAutofill="no"-->
+<!--        android:inputType="textPassword"-->
+<!--        android:maxLength="16"-->
+<!--        android:minHeight="48dp"-->
+<!--        android:paddingStart="8dp"-->
+<!--        android:paddingEnd="8dp"-->
+<!--        android:textColor="@color/black"-->
+<!--        android:textColorHint="@color/grey"-->
+<!--        android:textSize="16sp"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toBottomOf="@+id/tv_konfirmasi_password" />-->
+
+</androidx.constraintlayout.widget.ConstraintLayout>
